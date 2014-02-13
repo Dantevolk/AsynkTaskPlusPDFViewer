@@ -1,4 +1,0 @@
-AndroidCourseApps
-=================
-
-Android Course apps 
